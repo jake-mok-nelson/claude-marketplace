@@ -1,0 +1,27 @@
+{
+  "name": "jake-mok-nelson",
+  "owner": {
+    "name": "Jake Nelson"
+  },
+  "metadata": {
+    "description": "Claude Code plugins maintained by Jake Nelson"
+  },
+  "plugins": [
+    {
+      "name": "loom",
+      "description": "Project and task management MCP server backed by a local SQLite database. Manage projects, tasks, problems, goals, outcomes, and task notes.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Jake Nelson"
+      },
+      "source": {
+        "source": "github",
+        "repo": "jake-mok-nelson/loom"
+      },
+      "repository": "https://github.com/jake-mok-nelson/loom",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": ["project-management", "task-management", "mcp", "sqlite"]
+    }
+  ]
+}
