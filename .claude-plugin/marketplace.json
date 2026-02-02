@@ -15,8 +15,8 @@
         "name": "Jake Nelson"
       },
       "source": {
-        "source": "github",
-        "repo": "jake-mok-nelson/loom"
+        "source": "url",
+        "url": "https://github.com/jake-mok-nelson/loom.git"
       },
       "repository": "https://github.com/jake-mok-nelson/loom",
       "license": "MIT",
